@@ -1,0 +1,6 @@
+*.json
+*.txt
+.venv
+config.py
+__pycache__/*
+*checkpoints/
