@@ -11,7 +11,7 @@ The overall objective for this codebase is to give you instruction on machine le
 The contents of this repository are the code and slides for instruction on how to implement fats ML solutions. For the code, the files are broken down by the main type of data domain (e.g., image, text, and tabular). Files are named by when they were presented, what they were presented for, and a name. For example, a jupyter notebook that details how to implement a tabular solution taught at conference x in January of 2023 would be `01JAN23_Conference X_Tabular.ipynb`. The following is a current list of contents of the repository
 
 - Slides
-    1. [29NOV22_AvengerCon VII_Rapid ML Prototyping](Slides/29NOV22_AvengerCon VII_Rapid ML Prototyping.pdf): Slides from [AvengerCon VII](https://avengercon.com/) conference workshop. The workshop covered creating fast supervised ML solutions for Text, Tabular, and Image
+    1. [29NOV22_AvengerCon VII_Rapid ML Prototyping](Slides/29NOV22_AvengerCon%20VII_Rapid%20ML%20Prototyping.pdf): Slides from [AvengerCon VII](https://avengercon.com/) conference workshop. The workshop covered creating fast supervised ML solutions for Text, Tabular, and Image
     
 - Tabular
     1. [29NOV22_AvengerCon VII_Tabular](Tabular/29NOV22_AvengerCon VII_Tabular_Complete.ipynb): Complete and work through versions of implementing a fast tabular solution. The data set is a water quality data set from a Kaggle competition. The notebook features EDA, data processing (including imputation for missing data), feature engineering, and hyperparameter tuning. The main ML model used is [LightGBM](https://lightgbm.readthedocs.io/en/v3.3.5/).
