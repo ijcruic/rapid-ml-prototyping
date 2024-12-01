@@ -1,0 +1,11 @@
+jupyter
+#For torch install check: https://pytorch.org/get-started/locally/
+#pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121
+transformers
+accelerate
+langchain
+langchain-huggingface
+numpy
+pandas
+tqdm
+snorkel
