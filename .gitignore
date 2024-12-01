@@ -1,6 +1,40 @@
-*.json
-*.txt
-.venv
-config.py
+# Ignore Python bytecode files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ignore virtual environment directories
+.env/
+.venv/
+env/
+venv/
+
+# Ignore IDE/editor folders and settings
+.vscode/
+.idea/
+*.swp
+*~ 
+
+# Ignore logs and databases
+*.log
+*.sqlite
+*.db
+
+# Ignore package distribution files
+*.egg
+*.egg-info
+dist/
+build/
+
+# Ignore temporary files
+*.bak
+*.tmp
+*.swp
+*.swo
+
+# Keep .csv and .txt files
+!*.csv
+!*.txt
+
 __pycache__/*
 *checkpoints/
