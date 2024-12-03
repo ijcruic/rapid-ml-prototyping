@@ -9,3 +9,5 @@ numpy
 pandas
 tqdm
 snorkel
+matplotlib
+seaborn
